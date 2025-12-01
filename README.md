@@ -1,6 +1,4 @@
 # Amazon Clone
-Amazon clone using HTML and CSS
-
 This project is a **static front-end clone of the Amazon homepage** built using **HTML and CSS**.  
 It replicates the layout and visual elements of the original Amazon website, including the navigation bar, search bar, hero banner, product sections, and footer.  
 
